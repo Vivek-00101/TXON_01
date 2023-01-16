@@ -9,7 +9,7 @@ Creating a Landing Page using HTML and CSS
 
 How it looks...
 
--  [MyShoes](https://vivek-00101.github.io/TXON_01/)
+-  [YourShoes](https://vivek-00101.github.io/TXON_01/)
 
 ## 🛠 Language
 HTML, CSS
